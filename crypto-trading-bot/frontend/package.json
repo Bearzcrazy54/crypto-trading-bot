@@ -1,0 +1,9 @@
+{
+  "name": "crypto-bot-ui",
+  "version": "1.0.0",
+  "main": "public/electron.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "electron": "electron ."
+  }
+}
